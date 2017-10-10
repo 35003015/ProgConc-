@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: squelette.aux
+The style file: plain.bst
+Database file #1: ma_biblio.bib.bib
+Warning--I didn't find a database entry for "cours"
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            508 strings with 4185 characters,
+and the built_in function-call counts, 332 in all, are:
+= -- 28
+> -- 2
+< -- 0
++ -- 2
+- -- 0
+* -- 10
+:= -- 41
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 14
+empty$ -- 47
+format.name$ -- 0
+if$ -- 79
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 0
+newline$ -- 11
+num.names$ -- 0
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 14
+stack$ -- 0
+substring$ -- 10
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 0
+width$ -- 3
+write$ -- 16
+(There was 1 warning)

@@ -1,0 +1,11 @@
+\begin{thebibliography}{1}
+
+\bibitem{swingDoc}
+Swing.
+\newblock \url{https://docs.oracle.com/javase/tutorial/uiswing/index.html}.
+
+\bibitem{tkinterDoc}
+Tkinter.
+\newblock \url{https://docs.python.org/2/library/tkinter.html}.
+
+\end{thebibliography}
